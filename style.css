@@ -1,0 +1,176 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: rgb(248, 239, 239);
+    margin: 0px;
+}
+
+.parrafo{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    font-size: 30px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    margin-right: 99px;
+}
+
+h3{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.contenedorPlazoFijo{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.filaPlazo{
+    justify-items: center;
+    padding-top: 30px;
+    margin-right: 100px;
+}
+
+.filaBanco{
+    justify-items: center;
+    padding-top: 30px;
+    margin-right: 150px;
+}
+
+
+.botones{
+    padding-top: 30px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.containerFooter{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+
+
+.contenidoFormulario {
+    width: 880px;
+    background-color:lightblue;
+    margin: 5px;
+    padding: 10px 25px 25px 60px;
+}
+
+.controladorFormulario {
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 10px;
+    width: 90%;
+}
+.boton {
+    border: 0px;
+    color: black;
+    padding: 7px 25px;
+    border-radius: 2px;
+    font-size: 16px;
+    margin-top: 30px;
+}
+.botonPrimario {
+    background-color: lightblue;
+    border: 2px solid black;
+    margin-top: 15px;
+    font-size: 15px;
+}
+
+.lista {
+    padding-left: 20px;
+}
+.lista h2 {
+    margin: 0px;
+}
+.listaFooter li {
+    display: inline-block;
+}
+.listaFooter li a {
+    color: blue;
+    text-decoration: none;
+}
+
+
+.table{
+    width: 100%;
+    padding: 8px;
+    margin: 2px;
+    border: 1px solid black;
+    font-size: 18px;
+    vertical-align: top;
+    text-align: center;
+}
+
+.table tbody tr td{
+    border: 1px solid black;
+}
+
+
+
+section {
+    padding-top: 2em;
+}
+
+p{
+    font-size: 15px;
+}
+
+
+
+
+
+
+@media (min-width: 992px){
+.container {
+    width: 970px;
+}
+.lista h2 {
+    margin: 0px;
+    margin-left: 21px;
+}
+.lista {
+    padding-left: 57px;
+    padding-top: 16px;
+}
+}
+
+@media (min-width: 1200px){
+.container {
+    width: 1170px;
+}
+
+}
+@media (min-width: 992px){
+.container {
+    width: 970px;
+}
+.lista h2 {
+    margin: 0px;
+    margin-left: 21px;
+}
+.lista {
+    padding-left: 57px;
+    padding-top: 16px;
+}
+}

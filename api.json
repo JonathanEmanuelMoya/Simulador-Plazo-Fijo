@@ -1,0 +1,51 @@
+[
+    {
+        "pesos": "Pesos",
+        "value" : "Pesos"
+    },
+
+    {
+        "dolares": "Dólares",
+        "value": "Dólares"
+    },
+
+    {
+        "nacion" : "banco Nación",
+        "tna nacion": 39
+    },
+
+    {
+        "frances" : "Banco Francés",
+        "tna frances": 34
+    },
+
+    {
+        "galicia" : "Banco Galicia",
+        "tna galicia": 34
+    },
+
+    {
+        "provincia" : "Banco Provincia",
+        "tna provincia": 39
+    },
+
+    {
+        "ciudad" : "Banco Ciudad",
+        "tna ciudad": 39
+    },
+
+    {
+        "santander" : "Santander Rio",
+        "tna santander": 32
+    },
+
+    {
+        "hsbc" : "HSBC",
+        "tna hsbc": 30
+    },
+
+    {
+        "icbc" : "ICBC",
+        "tna icbc": 32
+    }
+]
