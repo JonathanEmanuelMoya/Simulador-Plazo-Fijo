@@ -1,5 +1,5 @@
 $(()=>{
-    //Aplicando evento clíck al botón "calcular"
+    //Aplicando evento clíck al botón "Calcular"
 
     $('#boton').on('click', function resultado(e) {
         e.preventDefault();
