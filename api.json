@@ -1,51 +1,41 @@
 [
-    {
-        "pesos": "Pesos",
-        "value" : "Pesos"
-    },
+  {
+    "banco": "Banco Nación",
+    "tna": 39
+  },
 
-    {
-        "dolares": "Dólares",
-        "value": "Dólares"
-    },
+  {
+    "banco": "Banco Francés",
+    "tna": 34
+  },
 
-    {
-        "nacion" : "banco Nación",
-        "tna nacion": 39
-    },
+  {
+    "banco": "Banco Galicia",
+    "tna": 34
+  },
 
-    {
-        "frances" : "Banco Francés",
-        "tna frances": 34
-    },
+  {
+    "banco": "Banco Provincia",
+    "tna": 39
+  },
 
-    {
-        "galicia" : "Banco Galicia",
-        "tna galicia": 34
-    },
+  {
+    "banco": "Banco Ciudad",
+    "tna": 39
+  },
 
-    {
-        "provincia" : "Banco Provincia",
-        "tna provincia": 39
-    },
+  {
+    "banco": "Santander Rio",
+    "tna": 32
+  },
 
-    {
-        "ciudad" : "Banco Ciudad",
-        "tna ciudad": 39
-    },
+  {
+    "banco": "HSBC",
+    "tna": 30
+  },
 
-    {
-        "santander" : "Santander Rio",
-        "tna santander": 32
-    },
-
-    {
-        "hsbc" : "HSBC",
-        "tna hsbc": 30
-    },
-
-    {
-        "icbc" : "ICBC",
-        "tna icbc": 32
-    }
+  {
+    "banco": "ICBC",
+    "tna": 32
+  }
 ]

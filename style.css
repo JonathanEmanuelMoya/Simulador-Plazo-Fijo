@@ -155,22 +155,6 @@ p{
 }
 }
 
-@media (min-width: 1200px){
-.container {
-    width: 1170px;
-}
 
-}
-@media (min-width: 992px){
-.container {
-    width: 970px;
-}
-.lista h2 {
-    margin: 0px;
-    margin-left: 21px;
-}
-.lista {
-    padding-left: 57px;
-    padding-top: 16px;
-}
-}
+
+
